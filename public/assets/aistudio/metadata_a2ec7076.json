@@ -1,0 +1,6 @@
+{
+  "name": "L-S Calculator — Lavender 3D",
+  "description": "A mobile-first 3D purple & lavender calculator crafted for Manuu and Sanjana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
